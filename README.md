@@ -3,6 +3,11 @@ Django Rest Framework | Countries details
 
 **NOTE: SOURCE CODE IS NOT FREE**
 
+* Python
+* Django
+* Django Rest Framework
+* PostgreSQL
+
 
 ## Flags:
 
